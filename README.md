@@ -7,3 +7,8 @@
 2. `python-dotenv`
     - `pip install python-dotenv` or `pip3 install python-dotenv`
     - [Official Github](https://github.com/theskumar/python-dotenv)
+
+## Example
+![](https://i.imgur.com/dtXnNNL.jpg)
+![](https://i.imgur.com/3VzH6Tz.jpg)
+![](https://i.imgur.com/WuVH85X.jpg)
